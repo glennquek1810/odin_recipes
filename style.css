@@ -1,0 +1,35 @@
+.selectable {
+    font-size: 36px;
+    font-family: 'Brush Script MT', cursive;
+    display: inline-block;
+    text-align: center;
+    padding: 15px 25px;
+    text-decoration: none ;
+    border: none;
+}
+
+.salmon {
+    background-color: salmon;
+    color: black;
+}
+
+.tofu {
+    background-color: #faf9ec;
+    color: black;
+}
+
+.broccoli {
+    background-color: #4d8c00;
+    color: black;
+}
+
+.big {
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.small {
+    font-size: 20px;
+    font-weight: lighter;
+    text-decoration: line-through solid 6px brown;
+}
